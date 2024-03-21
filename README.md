@@ -2,6 +2,6 @@
 
 Created this website using Partical js. 
 
-[Live Demo](https://react-js-simple-shopping-cart.vercel.app/shop/home)
+[Live Demo](https://muhammadhassan0017.github.io/parallex-website-partical-js/)
 
 
